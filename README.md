@@ -2,7 +2,7 @@
 <h3 align="center">A passionate IT Student from Sri Lanka</h3>
 
 ---
-<img align="right" height="180" width="40%" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" height="190" width="40%" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
