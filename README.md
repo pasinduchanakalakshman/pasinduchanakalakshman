@@ -18,7 +18,7 @@
 <h3 align="left">My Stats:</h3><br>
 <p>
 <a href="https://github.com/pasinduchanakalakshman">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=pasinduchanakalakshman&show_icons=true&theme=tokyonight&line_height=27" alt="pasinduchanakalakshman's github stats"/>
+  <img  align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=pasinduchanakalakshman&theme=dark&show_icons=true&count_private=true" alt="pasinduchanakalakshman's github stats" />
 </a>
 </p>
 
