@@ -10,7 +10,7 @@
 🚀 **About Me:**<br><br>
 🧑‍🎓 Undergraduate at SLIIT<br><br>
 🌱 Currently learning MERN Stack<br><br>
-💬 Ask me about Java<br><br>
+💬 Ask me about Java & JavaScript<br><br>
 📫 Reach me at: **pasinduchanakalakshman@gmail.com**<br><br>
 ⚡ Fun Fact: I think I am funny 😂
 </p>
@@ -20,7 +20,7 @@
 <!-- GitHub Stats & Most Used Languages -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pasinduchanakalakshman&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasinduchanakalakshman&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasinduchanakalakshman&langs_count=2&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact&custom_title=Most%20Used%20Languages&hide=css,html" height="150" alt="Most Used Languages" />
 </div>
 
 ###
@@ -75,10 +75,6 @@
 
 ###
 
-<!-- Top Contributed Repo -->
-<h3>🔝 Top Contributed Repo</h3>
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=pasinduchanakalakshman&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
