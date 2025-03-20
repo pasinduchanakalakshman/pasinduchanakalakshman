@@ -18,9 +18,18 @@
 ###
 
 <!-- GitHub Stats & Most Used Languages -->
+<!-- GitHub Stats & Most Used Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasinduchanakalakshman&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasinduchanakalakshman&langs_count=2&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact&custom_title=Most%20Used%20Languages&hide=css,html" height="150" alt="Most Used Languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=pasinduchanakalakshman&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasinduchanakalakshman&langs_count=2&theme=transparent&hide_border=false&layout=compact&custom_title=Most%20Used%20Languages&hide=css,html" height="150" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
