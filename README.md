@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="900" height="300">
 </h2>
 
-<h2 align="center">Hey! I'm Pasindu Chanaka Lakshman 💫 👨‍💻</h2>
+<h2 align="center">Hey! I'm Pasindu Chanaka Lakshman </h2>
 
 ###
 
