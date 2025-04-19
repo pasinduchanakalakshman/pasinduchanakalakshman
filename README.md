@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-🚀 **About Me:**<br><br>
+<h3>About Me:</h3>
 🧑‍🎓 Undergraduate at SLIIT<br><br>
 🌱 Currently learning MERN Stack<br><br>
 💬 Ask me about Java & JavaScript<br><br>
