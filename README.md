@@ -2,16 +2,16 @@
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="900" height="300">
 </h2>
 
-<h2 align="center">Hey! I'm Pasindu Chanaka Lakshman </h2>
+<h2 align="center">Hi 👋, I'm Pasindu Chanaka Lakshman </h2>
 
 ###
 
 <p align="left">
 <h3>About Me:</h3>
-🧑‍🎓 Undergraduate at SLIIT<br><br>
-🌱 Currently learning MERN Stack<br><br>
-💬 Ask me about Java & JavaScript<br><br>
-📫 Reach me at: **pasinduchanakalakshman@gmail.com**<br><br>
+🧑‍🎓 Undergraduate at <b>SLIIT</b><br><br>
+🌱 Currently learning <b>MERN</b><br><br>
+💬 Ask me about <b>Java & JavaScript</b><br><br>
+📫 Reach me at: <a href="pasinduchanakalakshman@gmail.com">pasinduchanakalakshman@gmail.com</a><br><br>
 ⚡ Fun Fact: I think I am funny 😂
 </p>
 
