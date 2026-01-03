@@ -67,16 +67,16 @@
 <!-- Social Media -->
 <h3>🌐 Connect With Me:</h3>
 <div align="left">
-  <a href="https://instagram.com/pasinduchanaka">
+  <a href="#">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/pasinduchanaka">
+  <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-  <a href="https://www.facebook.com/pasinduchanaka">
+  <a href="#">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" height="35" />
   </a>
-  <a href="https://discord.gg/YOUR_DISCORD_INVITE">
+  <a href="#">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="35" />
   </a>
   <a href="mailto:pasinduchanakalakshman@gmail.com">
