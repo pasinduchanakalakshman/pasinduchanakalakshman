@@ -9,7 +9,7 @@
 <p align="left">
 <h3>About Me:</h3>
 🧑‍🎓 Undergraduate at <b>SLIIT</b><br><br>
-🌱 Currently learning <b>MERN</b><br><br>
+🌱 Currently learning <b>Java</b><br><br>
 💬 Ask me about <b>Java & JavaScript</b><br><br>
 📫 Reach me at: <a href="pasinduchanakalakshman@gmail.com">pasinduchanakalakshman@gmail.com</a><br><br>
 ⚡ Fun Fact: I think I am funny 😂
@@ -66,21 +66,18 @@
 
 <!-- Social Media -->
 <h3>🌐 Connect With Me:</h3>
-<div align="left">
-  <a href="#">
+<div align="center">
+  <a href="https://www.instagram.com/pasindu_chanaka_/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="35" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/chanaka-lakshman">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" height="35" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="35" />
-  </a>
   <a href="mailto:pasinduchanakalakshman@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="35" /><t>
   </a>
 </div>
 
