@@ -9,7 +9,7 @@
 <p align="left">
 <h3>About Me:</h3>
 🧑‍🎓 Undergraduate at <b>SLIIT</b><br><br>
-🌱 Currently learning <b>Java</b><br><br>
+🌱 Currently learning <b> C# </b><br><br>
 💬 Ask me about <b>Java & JavaScript</b><br><br>
 📫 Reach me at: <a href="pasinduchanakalakshman@gmail.com">pasinduchanakalakshman@gmail.com</a><br><br>
 ⚡ Fun Fact: I think I am funny 😂
